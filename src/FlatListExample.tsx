@@ -63,7 +63,7 @@ function FlatListExample(): React.JSX.Element {
 
             <TouchableOpacity>
                 <Image 
-                source={require('./imagem/profile.png')} style={styles.footerIcon}  /> />
+                source={require('./imagem/profile.png')} style={styles.footerIcon}  /> 
             </TouchableOpacity>
 
         </View>
